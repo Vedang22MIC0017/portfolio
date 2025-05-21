@@ -1,0 +1,70 @@
+{
+  "loading": "Loading",
+  "enter": "Enter Into My World",
+  "role": "Role",
+  "agency": "Agency",
+  "completed": "Completed",
+  "riconoscimenti": "Skills",
+  "close": "Close",
+  "close project": "Close this project",
+  "go to project": "Go to",
+  "intro": {
+    "p1": {
+      "l1": "It's all about technology",
+      "l2": "and design process"
+    },
+    "p2": {
+      "l1": "Research and innovation",
+      "l2": "are the driver of memorable experiences"
+    },
+    "p3": {
+      "l1": "I'm a Software Developer"
+
+    },
+    "p4": {
+      "l1": "They Call Me 0017."
+    },
+    "scroll_cta": {
+      "line1": "Scroll down",
+      "line2": "to see some work"
+    }
+  },
+  "portfolio": {
+    "intro": [
+      "I craft",
+      "interactive Applications<br />and experiences.",
+      "From Websites , Applications , AI/ML Projects to LLM models  ",
+      "Anything that enables me to express my creativity to the world."
+    ],
+    "portfolio": [
+      "Projects",
+      "I have worked on a projects such as : <br><strong>Omega: a IOT enabled smartglove for gesture to speech conversion</strong><br> <strong>VisionAid: A smartglass for visually impaired people</strong> <br> <strong>A NFTMarketplace based on Ethereum</strong> <br> <strong>BingeBuddy: A movie recommendation system based on cosine similarity</strong><br> <strong>CodeFlex: A virtual gym trainer using LLM model</strong><br> <strong>VVibe: A Full Stack custom music streaming application</strong> <br> <strong>Suburbia: A platform to purchase customizable skateboards</strong>.<br /><br />",
+      "Here are a glimpse of my projects ."
+    ]
+  },
+  "about": {
+    "intro": [
+      "I was born in <ImageVenice>Pune</ImageVenice> in september 2003, today I study at  <ImageSketchin>Vellore Institute of Technology</ImageSketchin>, as a student enrolled in Integrated Mtech CSE.",
+      "<pre>Two/years</pre>ago I started<br />my journey of<br /> Programming",
+      "I started with Java and felt in love with it , i completed DSA using java and been solving complicated problems every since ",
+      "Since then I have been designing and implementing virtual experiences. I have studied different programming languages and databases to cover the whole stack.",
+      "Today I think in java."
+    ],
+    "clan_title": ["Skills", "And Technology"],
+    "clan": [
+      "Programming languages - C , C++ , JAVA , PYTHON , JAVASCRIPT",
+      "FrameWorks - React , Three js "
+    ],
+    "method_title": "Method",
+    "method": [
+      "Creating a successful product is not just about having beautiful aesthetics and impressive animations.<br />The effectiveness and usability of a project depends on the synergies formed between different components of design.",
+      "I emphasize Lean and Agile<br />methodologies",
+      "I promote continuous, attitudinal<br />and methodical improvement<br />for myself and others",
+      "If recognition and appreciation comes on top of that, it is a greater satisfaction."
+    ]
+  },
+  "contact": {
+    "intro": "You can get in touch with me by writing to",
+    "social_intro": "You can find me on social, for any work related query you can also contact me on"
+  }
+}
